@@ -1,2 +1,3 @@
-# ios1
-Generated landing page: ios1
+# Apple Gift Card
+
+Generated landing page.
